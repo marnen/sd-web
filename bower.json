@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "sd-web",
+  "description": "HTML/JS port of Bill Ackerman's Sd program (http://www.lynette.org/sd/).",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "homepage": "https://github.com/marnen/sd-web",
+  "license": "GPL 2+",
   "private": true,
   "dependencies": {
     "angular": "1.2.x",

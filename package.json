@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
+  "name": "sd-web",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "description": "HTML/JS port of Bill Ackerman's Sd program (http://www.lynette.org/sd/).",
+  "repository": "https://github.com/marnen/sd-web",
+  "license": "GPL 2+",
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "^1.1.1",
