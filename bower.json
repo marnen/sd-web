@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
-  "description": "A starter project for AngularJS",
+  "name": "sd-web",
+  "description": "HTML/ES6 port of Bill Ackerman's Sd program (http://www.lynette.org/sd/).",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-phonecat",
+  "homepage": "https://github.com/marnen/sd-web",
   "license": "MIT",
   "private": true,
   "dependencies": {
