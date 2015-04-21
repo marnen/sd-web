@@ -1,6 +1,9 @@
 # sd-web
 HTML/JS port of Bill Ackerman's Sd program (http://www.lynette.org/sd/).
 
+# Credits
+Some code taken from [angular-phonecat](https://github.com/angular/angular-phonecat).
+
 # Licensing
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
