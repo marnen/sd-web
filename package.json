@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "sd-web",
+  "description": "HTML/ES6 port of Bill Ackerman's Sd program (http://www.lynette.org/sd/).",
+  "repository": "https://github.com/marnen/sd-web",
+  "license": "GPL 2+",
+  "devDependencies": {
+  },
+  "scripts": {}
+}
