@@ -6,6 +6,8 @@
   "repository": "https://github.com/marnen/sd-web",
   "license": "GPL 2+",
   "devDependencies": {
+    "gulp": "^3.8.11",
+    "jspm": "^0.15.3"
   },
   "scripts": {}
 }
