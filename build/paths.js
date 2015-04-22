@@ -9,6 +9,10 @@ module.exports = {
   style: 'styles/**/*.css',
   output: 'dist/',
   doc:'./doc',
+  cucumberStepsSrc: 'features/step-definitions/src/**/*.js',
+  cucumberStepsDist: 'features/step-definitions/dist/',
+  cucumberSupportSrc: 'features/support/src/**/*.js',
+  cucumberSupportDist: 'features/support/dist/',
   e2eSpecsSrc: 'test/e2e/src/*.js',
   e2eSpecsDist: 'test/e2e/dist/'
 };
