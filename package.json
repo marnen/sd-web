@@ -29,6 +29,7 @@
     "karma-jspm": "^1.1.4",
     "karma-phantomjs-launcher": "^0.1.4",
     "object.assign": "^1.0.3",
+    "protractor-cucumber": "^0.1.4",
     "require-dir": "^0.1.0",
     "run-sequence": "^1.0.2",
     "vinyl-paths": "^1.0.0",
