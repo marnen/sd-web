@@ -10,7 +10,7 @@ module.exports = function(config) {
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['jspm', 'jasmine'],
+    frameworks: ['jspm', 'chai', 'jasmine'], // TODO: we shouldn't need jasmine here, but Karma won't run without it. Why?
 
     jspm: {
       // Edit this to your needs
