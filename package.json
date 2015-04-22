@@ -26,6 +26,7 @@
     "jspm": "^0.15.3",
     "karma": "^0.12.28",
     "karma-babel-preprocessor": "^5.0.1",
+    "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.5",
     "karma-jspm": "^1.1.4",
